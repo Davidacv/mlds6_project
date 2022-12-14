@@ -38,5 +38,5 @@ Las globulinas son una parte importante del sistema inmunitario.
 
 ![labels](https://user-images.githubusercontent.com/85200382/207718022-4cb0be90-14e9-4faf-8078-b82bcafcd1d6.png)
 
-
-
+Se observa que en este dataset los pacientes con afecciones detectadas representa alrededor del 15% del total de pacientes.
+Tambien es claro que existen datos faltantes los cuales pueden ser eliminados.
